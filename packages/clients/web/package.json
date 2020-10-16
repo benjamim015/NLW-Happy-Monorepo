@@ -9,12 +9,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "@Happy/axios-config": "*",
+    "leaflet": "^1.7.1",
     "next": "^9.5.5",
+    "next-images": "^1.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "@Happy/axios-config": "*"
+    "react-icons": "^3.11.0",
+    "react-leaflet": "^2.7.0",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
-    "@types/react": "^16.9.52"
+    "@types/react": "^16.9.52",
+    "@types/react-leaflet": "^2.5.2",
+    "@types/styled-components": "^5.1.4",
+    "babel-plugin-inline-react-svg": "^1.1.1"
   }
 }
