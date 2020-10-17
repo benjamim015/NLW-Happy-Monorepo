@@ -29,6 +29,9 @@ module.exports = {
     'react-hooks'
   ],
   rules: {
+    'react/forbid-prop-types': 'off',
+    'camelcase': 'off',
+    'class-methods-use-this': 'off',
     'jsx-a11y/anchor-is-valid': 'off',
     'import/prefer-default-export': 'off',
     'react-hooks/rules-of-hooks': 'error',

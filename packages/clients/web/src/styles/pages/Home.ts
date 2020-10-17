@@ -68,17 +68,6 @@ export const ContentWrapper = styled.div`
   }
 `;
 
-// export const LandingSvgWrapper = styled.div`
-//   svg {
-//     /* background: black; */
-//     position: absolute;
-//     width: 80%;
-//     height: 100%;
-//     top: 0;
-//     right: 5px;
-//   }
-// `;
-
 export const Location = styled.div`
   position: absolute;
   right: 0;
